@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 960px;
+    margin: auto;
+}
+header{
+    background-color: #2222ff;
+    padding: 20px;
+    margin: 20px auto 30px;
+    font-size: 30px;
+}
+nav{
+    width: 260px;
+    background-color: #22ff22;
+    padding: 20px;
+    padding-left: 50px;
+    float: left;
+    min-height: 400px;
+    line-height: 40px;
+}
+article{
+    padding: 20px;
+    float: right;
+    width: 260px;
+    background-color: #22ff22;
+    min-height: 410px;
+}
+.wrapper{
+    width: 700px;
+    padding: 5px;
+    background-color: #555;
+    float: left;
+}
+main{
+    padding: 20px;
+    min-height: 400px;
+    background-color: #ff2222;
+    margin-left: 280px;
+}

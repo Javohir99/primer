@@ -1,0 +1,28 @@
+.border{
+    width:760px;
+    height: 200px;
+    border: 1px solid black;
+}
+.sidebar{
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+    background-color: red;
+    float: left;
+
+}
+.main{
+    float: left;
+    background-color: green;
+    height: 150px;
+    width: 390px;
+    border: 1px solid black;
+    padding: 15px;
+}
+.sidebartwo{
+    height: 150px;
+    background-color: red;
+    float: right;
+    width: 150px;
+    padding: 10px;
+}

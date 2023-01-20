@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 80%;
+    background-color: #2222ff;
+    padding: 20px;
+    margin: 20px auto 30px;
+    font-size: 30px;
+}
+nav{
+    width: 16%;
+    background-color: #22ff22;
+    padding: 20px;
+    padding-left: 50px;
+    margin-left: 10%;
+    float: left;
+    min-height: 400px;
+    line-height: 40px;
+}
+main{
+    padding: 20px;
+    min-height: 400px;
+    background-color: #ff2222;
+    width: 62%;
+    margin-left: 28%;
+}
